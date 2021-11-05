@@ -1,0 +1,212 @@
+"","Case_Ctrl","Sex","grade_school","ppi","batch","antibiotic","BMI","patient_age"
+"M10153_DES","Control","Female","Some college","No",1,"No",31.28142012,51
+"M10226_DES","Control","Male",NA,NA,1,NA,26.98630401,72
+"M10291_DES","Control","Female",NA,NA,1,NA,25.82185491,42
+"M10367_DES","Control","Female","Post-graduate degree","Yes",1,"Yes",29.96971451,68
+"M10435_DES","Control","Female","High school degree","Yes",1,"Yes",23.04318418,67
+"M10509_DES","Control","Female",NA,NA,1,NA,29.75495656,47
+"M10571_DES","Control","Female","GED","No",1,"No",24.99555556,51
+"M10644_DES","Control","Female",NA,NA,1,NA,41.69719043,47
+"M10718_DES","Control","Male","Some high school","Yes",1,"No",18.75257299,45
+"M10781_DES","Control","Female","College degree","No",1,"No",40.71730898,45
+"M10926_DES","Control","Female",NA,NA,1,NA,19.45955388,66
+"M10995_DES","Control","Male",NA,NA,1,NA,22.31303313,48
+"M11066_DES","Control","Female","College degree","Yes",1,"No",31.14761249,44
+"M11209_DES",NA,"Female","GED","No",1,"Yes",NA,54
+"M11341_DES","Control","Female","Some college","No",1,"Yes",33.56841139,56
+"M11411_DES","Control","Female","College degree","Yes",1,"No",19.46020761,59
+"M11555_DES","Control","Female",NA,NA,1,NA,31.17359536,72
+"M11769_DES","Control","Female","Post-graduate degree","No",1,"Yes",25.84015963,55
+"M11974_DES","Control","Female","Some college","No",1,"No",32.0949707,61
+"M12183_DES","Control","Female","High school degree","No",1,"No",33.63964844,51
+"M12251_DES","Case","Female","Post-graduate degree","No",1,"No",24.02832031,67
+"M12531_DES","Control","Female","High school degree","No",1,"Yes",37.07226563,35
+"M12674_DES",NA,"Female","Some college","Yes",1,"Yes",32.43823242,75
+"M12746_DES","Control","Female","8th grade or less","No",1,"No",NA,48
+"M12813_DES","Case","Male","College degree","No",1,"Yes",27.31674018,68
+"M12882_DES","Control","Female","High school degree","Yes",1,"Yes",31.09001041,68
+"M13239_DES","Control","Female","Some college","Yes",1,"Yes",35.60166289,77
+"M13305_DES","Control","Female","College degree","Yes",2,"No",NA,41
+"M13517_DES","Control","Female","Post-graduate degree","No",1,"Yes",55.40804734,35
+"M13584_DES","Case","Female","Post-graduate degree","No",1,"No",29.59835153,51
+"M13652_DES","Control","Male","College degree","No",1,"No",22.88699853,62
+"M13791_DES","Case","Female","College degree","Yes",1,"No",27.19400913,45
+"M13863_DES","Control","Male","Some college","No",1,"No",28.18890622,72
+"M13932_DES","Control","Male","Some high school","Yes",1,"No",33.44723183,54
+"M14009_DES","Case","Female","Post-graduate degree","Yes",1,"Yes",20.59570313,64
+"M14074_DES","Control","Female","Post-graduate degree",NA,1,NA,30.11085916,66
+"M14146_DES","Control","Male","Post-graduate degree","No",1,"No",32.38300173,58
+"M14359_DES","Control","Female","Some college","Yes",1,"No",36.55737305,57
+"M14422_DES","Control","Female","College degree","No",1,"No",41.50497405,48
+"M14497_DES","Case","Female","College degree","No",1,"Yes",23.26102941,72
+"M14563_DES","Control","Female","Post-graduate degree","No",1,"Yes",32.26660156,69
+"M14634_DES","Case","Female","Post-graduate degree","Yes",1,"No",19.56591797,51
+"M14843_DES","Case","Female","College degree","No",1,"No",22.31201172,38
+"M14912_DES","Control","Female","Some college","Yes",1,"Yes",32.60986328,62
+"M14986_DES","Control","Female","Post-graduate degree","No",1,"Yes",30.03540039,44
+"M15053_DES","Control","Male","High school degree","Yes",1,"No",19.76427336,68
+"M15198_DES","Control","Female","Some college","Yes",1,"Yes",19.34320521,74
+"M15269_DES","Control","Female",NA,NA,1,NA,28.16389178,57
+"M15337_DES","Case","Female","College degree","Yes",1,"No",31.61420118,70
+"M15404_DES","Control","Female","College degree","Yes",1,"No",36.48897305,46
+"M15475_DES","Case","Female","Post-graduate degree","No",1,"No",41.19140625,46
+"M15616_DES","Control","Female",NA,NA,1,NA,34.61988304,47
+"M15681_DES","Control","Female","Post-graduate degree","Yes",1,"No",40.67651367,48
+"M15752_DES","Control","Female","Some college","Yes",1,"No",21.25472411,45
+"M15821_DES","Control","Female","High school degree","Yes",1,"No",24.99555556,57
+"M15893_DES","Control","Female",NA,NA,1,NA,27.95360947,45
+"M15969_DES","Control","Female","Some college","Yes",1,"No",35.18432617,59
+"M16033_DES","Case","Female","College degree","Yes",1,"Yes",22.91689624,83
+"M16107_DES","Case","Female","Post-graduate degree","No",1,"No",23.96023669,70
+"M16245_DES","Case","Female","Post-graduate degree","No",1,"No",25.01492195,NA
+"M16317_DES","Control","Female","Some college","No",1,"No",30.03540039,69
+"M16452_DES","Control","Female","Some college","No",1,"No",25.82185491,NA
+"M16523_DES",NA,"Female","College degree","Yes",1,"No",34.00755858,60
+"M16598_DES","Control","Female","High school degree","No",1,"No",28.3190918,41
+"M16662_DES","Control","Male","Post-graduate degree","No",1,"Yes",33.96135266,42
+"M16731_DES","Control","Female",NA,NA,1,NA,35.15,47
+"M16808_DES","Control","Female","Post-graduate degree","No",1,"Yes",20.80306122,45
+"M16871_DES","Control","Male","Some college","Yes",1,"Yes",29.78378378,40
+"M16949_DES","Control","Female","Post-graduate degree","Yes",1,"Yes",35.69921875,39
+"M17019_DES","Control","Female","Post-graduate degree","No",1,"No",19.20265349,73
+"M17081_DES","Case","Female","Some college","No",1,"No",21.63076923,86
+"M17153_DES","Case","Female","Some college","No",1,"Yes",32.27731864,75
+"M17577_DES","Control","Female","College degree","No",1,"Yes",34.69811754,45
+"M17716_DES","Case","Female","Some college","No",1,"No",18.23668503,64
+"M17782_DES","Control","Female","Some college","Yes",1,"No",22.27134986,51
+"M17921_DES","Control","Female","High school degree","No",1,"No",29.41122449,56
+"M17996_DES","Control","Female","Some college","Yes",1,"Yes",27.11294766,NA
+"M18136_DES","Case","Female","High school degree","No",1,"Yes",44.38131313,40
+"M18201_DES","Case","Female","College degree","No",1,"No",20.19198791,64
+"M18274_DES","Case","Female","Some college","Yes",1,"No",22.99853516,54
+"M18413_DES","Case","Female","Some college","No",1,"No",27.79812695,67
+"M18482_DES","Control","Male","High school degree","No",1,"No",34.29911803,36
+"M18551_DES","Control","Male",NA,NA,1,NA,31.45116572,51
+"M18692_DES","Control","Female",NA,NA,1,NA,42.37527778,44
+"M18767_DES","Control","Female","Some college","Yes",1,"No",22.8049308,45
+"M18835_DES","Control","Female","Some college","Yes",1,"Yes",18.87939453,71
+"M18905_DES","Control","Female","Some college","Yes",1,"No",26.62878788,83
+"M19046_DES","Case","Male","Some college","Yes",1,"Yes",31.00819156,63
+"M19113_DES","Control","Female","Some college","No",1,"No",27.33888889,76
+"M19182_DES","Control","Female","Some college","No",1,"No",32.31255386,52
+"M19258_DES","Control","Male","College degree","Yes",1,"No",22.29636631,36
+"M19466_DES","Case","Female","Post-graduate degree","No",1,"Yes",22.31201172,76
+"M19608_DES","Control","Female","Some college","No",1,"No",43.8917794,43
+"M19678_DES","Control","Female","Some college","No",1,"No",24.37158203,62
+"M19748_DES","Control","Female","High school degree","No",2,"No",31.55092717,42
+"M19888_DES","Case","Female","College degree","Yes",1,"No",20.90047871,51
+"M19955_DES","Control","Male",NA,NA,1,NA,31.4527027,40
+"M20164_DES","Control","Male","Post-graduate degree","Yes",1,"No",22.2377551,69
+"M20238_DES","Case","Female","College degree","No",2,"No",15.6184082,80
+"M20449_DES","Control","Female","Some college","No",2,"No",26.45609468,44
+"M20518_DES","Case","Female","College degree","Yes",2,"No",NA,45
+"M20589_DES","Case","Female","Post-graduate degree","Yes",2,"No",20.82850346,78
+"M20723_DES","Control","Female","Some college","Yes",2,"No",NA,66
+"M20794_DES","Control","Female","College degree","No",1,"Yes",21.48055556,35
+"M20865_DES","Control","Female","Post-graduate degree","Yes",2,"No",17.85297394,71
+"M20931_DES","Control","Female","College degree","No",2,"No",37.24389648,72
+"M21008_DES","Case","Female","Some college","No",2,"Yes",33.51837849,72
+"M21143_DES","Control","Female","College degree","Yes",2,"No",39.93372781,40
+"M21289_DES","Control","Female","Some college","No",2,"No",34.55198488,61
+"M21429_DES","Case","Female","Some college","Yes",2,"No",28.78556213,69
+"M21495_DES","Case","Female","Post-graduate degree","No",2,"No",25.33769513,67
+"M21562_DES",NA,"Female","Some college","No",2,"No",29.75495656,48
+"M21709_DES","Control","Male","Some college","No",2,"No",25.08777006,51
+"M22052_DES","Control","Male","College degree","Yes",2,"No",24.40972222,40
+"M22122_DES","Control","Male","High school degree","Yes",2,NA,20.80306122,53
+"M22195_DES","Control","Female","College degree","No",2,"No",26.82773448,65
+"M22407_DES","Control","Female","Some college","No",2,"No",20.59570313,51
+"M22541_DES","Case","Male","High school degree","No",2,"No",16.24711111,56
+"M22619_DES","Control","Female","Some college","Yes",2,"No",34.00698737,38
+"M22757_DES","Case","Female","Post-graduate degree","No",2,"No",17.57027681,45
+"M22899_DES","Case","Female","College degree","No",2,"No",23.23805556,47
+"M22962_DES","Control","Female","High school degree","Yes",2,"No",28.97193139,54
+"M23035_DES",NA,"Female","College degree","No",2,"No",25.85991434,67
+"M23177_DES","Control","Female","Some college","Yes",2,"No",34.00755858,58
+"M23317_DES",NA,"Female","Post-graduate degree","No",2,"Yes",21.07760141,42
+"M23387_DES","Control","Female","Some college","No",2,"No",32.41724215,69
+"M23453_DES","Control","Female","Some college","No",2,"No",30.11085916,69
+"M23874_DES","Control","Female","Some high school","Yes",2,"Yes",33.83324662,42
+"M23941_DES","Control","Male","College degree","Yes",2,"Yes",28.18890622,59
+"M24015_DES","Control","Male","Post-graduate degree","No",2,"No",22.14870826,81
+"M24083_DES","Case","Female","Some college","No",2,"No",26.08789063,85
+"M24151_DES","Control","Female","Post-graduate degree","Yes",2,"No",29.1183432,43
+"M24228_DES","Control","Female","Post-graduate degree","No",2,"Yes",24.95857988,44
+"M24297_DES","Control","Female","High school degree","No",2,"No",17.73959417,54
+"M24362_DES","Control","Female","College degree","Yes",2,"No",39.74509026,40
+"M24437_DES","Control","Male","Some college","No",2,"No",30.10250865,55
+"M24505_DES","Control","Male","Some college","Yes",2,"No",25.05680553,45
+"M24577_DES","Control","Female","College degree","Yes",2,"Yes",20.59570313,51
+"M24643_DES","Case","Female","College degree","No",2,"No",24.12662722,49
+"M24712_DES","Control","Male","Post-graduate degree","No",2,"No",24.9542113,60
+"M24789_DES","Control","Female","Post-graduate degree","No",2,"Yes",40.71730898,53
+"M24859_DES","Case","Female","Some college","No",2,"No",21.79711914,39
+"M25069_DES","Control","Male","College degree","No",2,"No",37.6532434,60
+"M25139_DES","Control","Male","Some college","Yes",2,"No",25.67567568,43
+"M25204_DES","Control","Female","Post-graduate degree","No",2,"No",22.77853746,38
+"M25279_DES","Control","Female","College degree","No",2,"Yes",37.58520829,NA
+"M25349_DES","Control","Female","Some college","No",2,"No",17.27599244,62
+"M25414_DES","Control","Female","GED","No",2,"No",29.61751479,58
+"M25559_DES","Case","Female","Some college","No",2,"No",17.80378698,NA
+"M25629_DES","Control","Female","College degree","Yes",2,"No",38.73278237,37
+"M25692_DES","Control","Male","Post-graduate degree","No",2,"No",42.71701389,36
+"M25765_DES","Case","Male","Post-graduate degree","No",2,"Yes",NA,76
+"M25833_DES","Control","Male","Post-graduate degree","Yes",2,"No",28.88513514,46
+"M25907_DES","Control","Male","High school degree","No",2,"No",26.30168685,NA
+"M45158_DES","Control","Female","Post-graduate degree","No",1,"Yes",26.14965398,46
+"M45222_DES","Control","Male","Post-graduate degree","No",1,"No",NA,59
+"M52785_DES","Control","Female","Some college","Yes",2,"Yes",39.67548501,49
+"M53062_DES","Control","Female","Some college","No",2,"No",30.17929293,64
+"M53132_DES","Case","Female","High school degree","Yes",2,"No",31.47038568,46
+"M53209_DES","Control","Female","Post-graduate degree","Yes",2,"Yes",29.64641004,63
+"M53275_DES","Control","Male",NA,NA,2,NA,20.6721277,69
+"M53413_DES","Control","Female","College degree","Yes",2,"No",38.89416896,54
+"M53488_DES","Control","Female","Post-graduate degree","No",2,"No",35.23613277,36
+"M53695_DES","Case","Female","College degree","No",2,"Yes",26.6057526,60
+"M53906_DES","Control","Female","Post-graduate degree","No",2,"Yes",22.84882842,48
+"M53974_DES","Control","Female","Some college","No",2,"No",19.79143924,64
+"M54041_DES","Control","Male","Post-graduate degree","Yes",2,"No",19.55750865,43
+"M54118_DES","Control","Female","Post-graduate degree","Yes",2,"No",33.63964844,49
+"M54396_DES","Case","Female","College degree","Yes",2,"No",27.97583008,76
+"M54465_DES","Control","Female","High school degree","No",2,"Yes",26.44987907,55
+"M54533_DES",NA,"Female","Some college","No",2,"No",NA,43
+"M54607_DES","Control","Female","Some college","Yes",2,"No",24.02832031,37
+"M54674_DES","Control","Female","Some college","Yes",2,"Yes",37.77065089,46
+"M54741_DES","Control","Female",NA,NA,2,NA,24.12662722,40
+"M54887_DES","Control","Female","High school degree","No",2,"Yes",28.33963215,56
+"M54954_DES","Control","Female","Post-graduate degree","No",2,"Yes",35.42454019,57
+"M55027_DES","Case","Female","College degree","No",2,"No",27.87569615,60
+"M55162_DES","Control","Female","Some college","No",2,"No",21.76300728,74
+"M55238_DES","Control","Male","College degree","Yes",2,"No",25.55921053,64
+"M55306_DES","Control","Female","Some college","No",2,"Yes",18.79260414,48
+"M55379_DES","Case","Male","Post-graduate degree","No",2,"No",28.27811419,82
+"M55582_DES","Case","Female","GED","No",2,"No",15.14153846,63
+"M55653_DES","Control","Female",NA,NA,2,NA,35.7739645,35
+"M56143_DES","Case","Female","College degree","No",2,"No",24.02832031,77
+"M56288_DES","Control","Female","8th grade or less","Yes",2,"No",35.18227732,59
+"M56352_DES","Case","Female","College degree","No",2,"No",25.53755102,52
+"M56423_DES","Control","Female","College degree","No",2,"No",25.22973633,43
+"M56498_DES","Control","Male","Some college","Yes",2,"No",29.83410494,44
+"M56631_DES","Case","Female","College degree","Yes",2,"No",23.55731922,76
+"M63144_DES","Case","Female","Post-graduate degree","No",1,"No",22.59412305,67
+"M63282_DES","Control","Male","Some college","No",1,"No",21.92470483,39
+"M63356_DES","Control","Female","Some college","Yes",1,"Yes",NA,52
+"M63422_DES","Control","Male","College degree","Yes",1,"No",30.34152749,46
+"M63498_DES","Case","Female","Some college","Yes",1,"Yes",20.81887052,65
+"M63633_DES","Control","Male","Post-graduate degree","Yes",2,"No",29.02233064,56
+"M63703_DES","Control","Female","Some high school","Yes",2,"No",32.87342112,49
+"M63911_DES","Control","Female","High school degree","No",2,"No",19.52777778,59
+"M64056_DES","Control","Female","Some college","Yes",2,"No",29.17724609,52
+"M64124_DES","Control","Female","High school degree","Yes",2,"No",33.12194507,64
+"M64409_DES","Case","Female","College degree","No",2,"No",22.31165453,72
+"M64476_DES","Control","Female","High school degree","Yes",2,"No",38.60260355,48
+"M64611_DES","Control","Female","College degree","Yes",2,"Yes",25.74462891,73
+"M64826_DES","Control","Male","Post-graduate degree","No",2,"No",27.86388936,48
+"M64969_DES","Control","Female","Some college","No",2,"Yes",38.0813807,74
+"M65037_DES","Control","Female","High school degree","No",2,"No",36.90063477,64
+"M65249_DES","Control","Male",NA,NA,2,NA,32.0945946,NA
+"M66434_DES","Case","Female","College degree","No",2,"Yes",42.41403762,63
+"M66574_DES","Case","Female","College degree","No",2,"No",20.42407227,36
+"M66641_DES","Control","Female","Some college","No",2,"Yes",20.98507463,77
+"M66718_DES","Case","Female","Post-graduate degree","No",2,"No",28.18890622,48
+"M66783_DES",NA,"Female","Some college","Yes",2,"No",34.74765869,74
